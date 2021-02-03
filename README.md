@@ -8,7 +8,7 @@ Just as a sample model.
 Project->Properties->Build tab in Visual Studio, tick the checkbox
 #### "Register for COM Interop"  
   
-To register (Framework 4):  
+#### To register the assembly (Framework 4):
 regasm "...\Release\DllTest.dll" /tlb "...\Release\DllTest.tlb" /codebase  
   
 To unregister  
