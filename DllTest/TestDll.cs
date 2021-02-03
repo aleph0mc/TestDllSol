@@ -16,7 +16,6 @@ namespace DllTest
         int Add2Numbers(int A, int B);
     }
 
-
     [ComVisible(true)]
     [ComDefaultInterface(typeof(ITestDll))]
     [ClassInterface(ClassInterfaceType.None)]
