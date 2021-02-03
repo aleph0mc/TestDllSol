@@ -6,7 +6,7 @@ Just as a sample model.
   
 # IMPORTANT  
 Project->Properties->Build tab in Visual Studio, tick  
-# "Register for COM Interop"  
+## "Register for COM Interop"  
   
 To register (Framework 4):  
 regasm "...\Release\DllTest.dll" /tlb "...\Release\DllTest.tlb" /codebase  
