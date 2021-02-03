@@ -4,7 +4,7 @@ Sample COM object DLL
 Allows to add this COM DLL as an Automation object even to Navision 2009+  
 Just as a sample model.  
   
-# IMPORTANT  
+# IMPORTANT
 Project->Properties->Build tab in Visual Studio, tick
 ### "Register for COM Interop"  
   
